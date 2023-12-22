@@ -2,9 +2,19 @@
 
 # Nike Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a website for Nike shoe company with great landing page and easy to navigate page.
 
-Currently, two official plugins are available:
+This whole website was created in purpose of learning and creating website using Tailwindcss.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Prerequisites:
+1. React was setup using vite
+2. Frond end framework, tailwindcss was initailized as dependency.
+3. Vite build was used to build the project.
+4. Netlify was used to deploy the Project.
+
+Technologies Used: 
+Vite, 
+React, 
+TailwindCss, 
+Netlify.
+
